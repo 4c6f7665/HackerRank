@@ -31,7 +31,5 @@
 | ![License](https://img.shields.io/badge/Easy-1BA94C)|[C++ Class Tamplates](https://)|[C++](https://)
 | ![License](https://img.shields.io/badge/Easy-1BA94C)|[Preprocessor Solution](https://)|[C++](https://)
 | ![License](https://img.shields.io/badge/Easy-1BA94C)|[Overload Operators](https://)|[C++](https://)
-
 | ![License](https://img.shields.io/badge/Medium-DB7100)|[X](https://)|[C++](https://)
-
 | ![License](https://img.shields.io/badge/Medium-D11534)|[X](https://)|[C++](https://)
