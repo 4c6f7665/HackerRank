@@ -44,7 +44,7 @@
 | ![License](https://img.shields.io/badge/Medium-DB7100)|[Operator Overloading](https://)|[C++](https://)
 | ![License](https://img.shields.io/badge/Medium-DB7100)|[Attending Workshops](https://)|[C++](https://)
 | ![License](https://img.shields.io/badge/Medium-DB7100)|[C++ Class Template Specialization](https://)|[C++](https://)
-| ![License](https://img.shields.io/badge/Hard-D11534)|[Abstract Classes - Polymorphism](https://)|[C++](https://)
+| ![License](https://img.shields.io/badge/Hard-D11534)|[Abstract Classes - Polymorphism](https://t.ly/vUnKy)|[C++](https://)
 | ![License](https://img.shields.io/badge/Hard-D11534)|[Magic Spells](https://)|[C++](https://)
 | ![License](https://img.shields.io/badge/Hard-D11534)|[C++ Variadics](https://)|[C++](https://)
 | ![License](https://img.shields.io/badge/Hard-D11534)|[Bit Array](https://)|[C++](https://)
