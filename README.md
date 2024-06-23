@@ -1,6 +1,6 @@
-![License](https://img.shields.io/badge/Easy-E6E6E6)
-![License](https://img.shields.io/badge/Medium-E6E6E6)
-![License](https://img.shields.io/badge/Hard-ECB613)
+![License](https://img.shields.io/badge/Easy-1BA94C)
+![License](https://img.shields.io/badge/Medium-DB7100)
+![License](https://img.shields.io/badge/Hard-D11534)
 
 |Difficulty|Question|Solution|
 |-|-|-|
