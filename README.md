@@ -1,6 +1,6 @@
-![License](https://img.shields.io/badge/8%20kyu-E6E6E6)
-![License](https://img.shields.io/badge/7%20kyu-E6E6E6)
-![License](https://img.shields.io/badge/6%20kyu-ECB613)
+![License](https://img.shields.io/badge/Easy-E6E6E6)
+![License](https://img.shields.io/badge/Medium-E6E6E6)
+![License](https://img.shields.io/badge/Hard-ECB613)
 
 |Difficulty|Question|Solution|
 |-|-|-|
