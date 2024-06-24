@@ -62,16 +62,10 @@
 | ![License](https://img.shields.io/badge/Hard-D11534)|[Bit Array](https://www.hackerrank.com/challenges/bitset-1/problem?isFullScreen=true)|[C++](https://)
 
 
-
-# My Project
-
-## Features
-
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <details>
-  <summary>Click to expand</summary>
-  
-  - Feature 1
-  - Feature 2
-  - Feature 3
-  
+<summary>Click to expand</summary> 
+|text|text|text|
+|text|text|text|
+|text|text|text|
 </details>
