@@ -8,10 +8,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.ruby-lang.org/en/" target="" rel=""> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
 
-<a href="https://github.com/ThreadedDev/HackerRank/blob/main/C%2B%2B/main.cpp">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-       alt="GitHub Icon" height="40">
-</a>
+<a href="https://github.com/ThreadedDev/HackerRank/blob/main/C%2B%2B/main.cpp"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="GitHub Icon" height="40"></a>
 
 ![License](https://img.shields.io/badge/Easy-1BA94C)
 ![License](https://img.shields.io/badge/Medium-DB7100)
@@ -19,7 +16,8 @@
 
 |Difficulty|Question|Solution|
 |-|-|-|
-| ![License](https://img.shields.io/badge/Easy-1BA94C)|[Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem?isFullScreen=true)|[C++](https://)
+| ![License](https://img.shields.io/badge/Easy-1BA94C)|[Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem?isFullScreen=true)|
+[C++](<a href="https://github.com/ThreadedDev/HackerRank/blob/main/C%2B%2B/main.cpp"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="GitHub Icon" height="40"></a>)
 | ![License](https://img.shields.io/badge/Easy-1BA94C)|[Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem?isFullScreen=true)|[C++](https://)
 | ![License](https://img.shields.io/badge/Easy-1BA94C)|[Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem?isFullScreen=true)|[C++](https://)
 | ![License](https://img.shields.io/badge/Easy-1BA94C)|[Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem?isFullScreen=true)|[C++](https://)
