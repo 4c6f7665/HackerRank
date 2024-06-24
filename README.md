@@ -169,10 +169,66 @@
 |Easy|Polar Coordinates|
 |Easy|Introduction to Sets|
 |Easy|DefaultDict Tutorial|
-
-
-
-
+|Easy|Calendar Module|
+|Easy|Exceptions|
+|Easy|Collections.namedtuple()|
+|Easy|Collections.OrderedDict()|
+|Easy|Symmetric Difference|
+|Easy|itertools.combinations()|
+|Easy|Incorrect Regex|
+|Easy|Set.add()|
+|Easy|itertools.combinations_with_replacement()|
+|Easy|Set .discard(),.remove() & .pop()|
+|Easy|Collections.deque()|
+|Easy|Set .union() Operation|
+|Easy|Set .intersection() Operation|
+|Easy|Mod Divmod|
+|Easy|Power - Mod Power|
+|Easy|Set .difference() Operation|
+|Easy|Integers Come In All Sizes|
+|Easy|Set .symmetric_difference() Operation|
+|Easy|Set Mutations|
+|Easy|The Captain's Room|
+|Easy|Check Subset|
+|Easy|Check Strict Superset|
+|Easy|Class 2 - Find the Torsional Angle|
+|Easy|Zipped!|
+|Easy|Input()|
+|Easy|Python Evaluation|
+|Easy|Any or All|
+|Easy|Detect Floating Point Number|
+|Easy|Map and Lambda Function|
+|Easy|Re.split()|
+|Easy|Group(), Groups() & Groupdict()|
+|Easy|Re.findall() & Re.finditer()|
+|Easy|Re.start() & Re.end()|
+|Easy|Validating Roman Numerals|
+|Easy|Validating phone numbers|
+|Easy|Validating and Parsing Email Addresses|
+|Easy|Hex Color Code|
+|Easy|HTML Parser - Part 1|
+|Easy|HTML Parser - Part 2|
+|Easy|Detect HTML Tags, Attributes and Attribute Values|
+|Easy|XML 1 - Find the Score|
+|Easy|Validating UID|
+|Easy|XML2 - Find the Maximum Depth|
+|Easy|Standardize Mobile Number Using Decorators|
+|Easy|Decorators 2 - Name Directory|
+|Easy|Arrays|
+|Easy|Shape and Reshape|
+|Easy|Transpode and Flatten|
+|Easy|Concatenate|
+|Easy|Zeros and Ones|
+|Easy|Eye and Identify|
+|Easy|Array Mathematics|
+|Easy|Floor, Ceil and Rint|
+|Easy|Sum and Prod|
+|Easy|Min and Max|
+|Easy|Mean, Var, and Std|
+|Easy|Dot and Cross|
+|Easy|Inner and Outer|
+|Easy|Polynomials|
+|Easy|Linear Algebre|
 # Ruby
 |Difficulty|Question|Solution|
 |-|-|-|
