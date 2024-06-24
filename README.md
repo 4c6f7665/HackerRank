@@ -43,4 +43,4 @@
 |Hard|Abstract Classes - Polymorphism|[C++](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C++/AbstractClassesPolymorphism.cpp)
 |Hard|Magic Spells|[C++](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C++/MagicSpells.cpp)
 |Hard|C++ Variadics|[C++](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C++/CppVariadics.cpp)
-|Hard|Bit Array|[C++](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C++/BitArrray.cpp)
+|Hard|Bit Array|[C++](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C++/BitArray.cpp)
