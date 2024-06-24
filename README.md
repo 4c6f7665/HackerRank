@@ -13,7 +13,7 @@
 |Easy|Strings|[C++](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C++/Strings.cpp)
 |Easy|Structs|[C++](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C++/Structs.cpp)
 |Easy|Class|[C++](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C++/Class.cpp)
-|Easy|Classes and Objects|[C++](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C++/CkassesAndObjects.cpp)
+|Easy|Classes and Objects|[C++](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C++/ClassesAndObjects.cpp)
 |Easy|Box It!|[C++](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C++/BoxIt.cpp)
 |Easy|Vector-Sort|[C++](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C++/VectorSort.cpp)
 |Easy|Vector-Erase|[C++](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C++/VectorErase.cpp)
