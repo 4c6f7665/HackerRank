@@ -32,7 +32,7 @@
 |Medium|Exceptional Server|[C++](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C++/ExceptionalServer.cpp)
 |Medium|Virtual Functions|[C++](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C++/VirtualFunctions.cpp)
 |Medium|Deque-STL|[C++](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C++/DequeSTL.cpp)
-|Medium|Hotel Prices|[C++](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C++/HotelPrice.cpp)
+|Medium|Hotel Prices|[C++](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C++/HotelPrices.cpp)
 |Medium|Cpp exception handling|[C++](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C++/CppExceptionHandling.cpp)
 |Medium|Overloading Ostream Operator|[C++](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C++/OverloadingOstreamOperator.cpp)
 |Medium|Messages Order|[C++](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C++/MessagesOrder.cpp)
