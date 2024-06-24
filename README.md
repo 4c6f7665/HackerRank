@@ -1,5 +1,7 @@
 |Difficulty|Question|Solution|
 |-|-|-|
+|C++|
+|-|-|-|
 |Easy|Say "Hello, World!" With C++|[C++](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C++/SayHelloWorldWithCpp.cpp)
 |Easy|Input and Output|[C++](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C++/InputAndOutput.cpp)
 |Easy|Basic Data Types|[C++](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C++/BasicDataTypes.cpp)
@@ -44,3 +46,5 @@
 |Hard|Magic Spells|[C++](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C++/MagicSpells.cpp)
 |Hard|C++ Variadics|[C++](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C++/CppVariadics.cpp)
 |Hard|Bit Array|[C++](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C++/BitArray.cpp)
+
+|Easy
