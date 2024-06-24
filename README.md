@@ -228,7 +228,7 @@
 |Easy|Dot and Cross|
 |Easy|Inner and Outer|
 |Easy|Polynomials|
-|Easy|Linear Algebre|
+|Easy|Linear Algebra|
 # Ruby
 |Difficulty|Question|Solution|
 |-|-|-|
