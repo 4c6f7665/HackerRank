@@ -9,8 +9,8 @@
   <a href="https://www.ruby-lang.org/en/" target="" rel=""> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
 
 <a href="https://github.com/your-username/your-repository">
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMDAgMzAwIj48Y2lyY2xlIGN4PSIxNTAiIGN5PSIxNTAiIHI9IjE1MCIgc3R5bGU9ImZpbGw6I2ZmZiIgLz48cGF0aCBkPSJNMjE0LjUgMTc5LjVjLTIuNiAxLjItMy4zLTIuMy0zLjMtMi4zLTEuMy0zLjMtMi41LTQuMy0xLjQtNC4zIDEuMy0uNiAzLjEgMS4yIDMuMSAxLjIgMy4xIDMuMyA1LjUgNS41IDMuMyA1LjUgMyAzLjIgMTIuOCAzLjIgMTguNi0uNiA1LjUtMy4xIDMuMi02LjUgMy4xLTYtLjYtMy4xLTMuMy0uNi0zLjYtMy4xLTEuMi0zLjMtNC40LS42LTYuNiAwLTYuNiAwLTEuMiAwLTMuMSAzLjEtMy40LjYtMS42IDYuNC0uNiA5LjcgMS4zIDIuMyAzLjMgMS4zIDkuNy0uNiAxMi44LTMuNiAzLjEtMTIuMyAxLjItMTIuMyA3LjkgMCA0LjUgMy4xIDUuNSA0LjYgMy42LTEzLjggMy4xLTMzLjYgMy4xLTMzLjYtMTEuOXYtNS4zYzAtMy4xLTEuMi02LjYtMy42LTguNiAxLjItMyAxMy04LjggMTMuMi0yNS41IDAtNi42LTIuMy0xMS4yLTUuNS0xNS0uNi0yLjQtMi4zLTYuNi40LTguMiAyLjUtLjYgNi4yIDMuMSA4LjIgMyAxLjItLjYuNi0yLjQuNi0yLjQtMy4zLS4xLTYuOC0uNi05LjctMS4yLTMuNi0uNi03LjMtMS4yLTEwLjktMS4yLTMuMiAwLTYuNSA0LjYtMy43IDUuNC0uNiAxLjItLjYgMy4xLS42IDQuN2MwIDIuNC0uNiA0LjMtMi42IDUuMy0xLjIgLjYtMyA0LjEtMi4zIDYuNiAzLjMgMy42IDEuMiA0LjUgMCA0LjUgNi44IDAgNi4xLjYuMyAyIDMuMSA4LjIgMS44IDEuMi0uNiAxLjIgMS40IDUgMS4yIDIuOCAwIDUuNS0uNiA4LjItMS4zeiIgZmlsbD0iIzAwMCIvPjwvc3ZnPg=="
-       alt="GitHub Icon" height="20">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+       alt="GitHub Icon" height="40">
 </a>
 
 ![License](https://img.shields.io/badge/Easy-1BA94C)
