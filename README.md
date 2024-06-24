@@ -4,7 +4,7 @@
 
 |Difficulty|Question|Solution|
 |-|-|-|
-|[Easy]|[Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem?isFullScreen=true)|[C++](https://)
+|Easy|[Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem?isFullScreen=true)|[C++](https://)
 | ![License](https://img.shields.io/badge/Easy-1BA94C)|[Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem?isFullScreen=true)|[C++](https://)
 | ![License](https://img.shields.io/badge/Easy-1BA94C)|[Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem?isFullScreen=true)|[C++](https://)
 | ![License](https://img.shields.io/badge/Easy-1BA94C)|[Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem?isFullScreen=true)|[C++](https://)
