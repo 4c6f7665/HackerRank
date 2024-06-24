@@ -48,31 +48,6 @@
 | ![License](https://img.shields.io/badge/Hard-D11534)|[Magic Spells](https://www.hackerrank.com/challenges/magic-spells/problem?isFullScreen=true)|[C++](https://)
 | ![License](https://img.shields.io/badge/Hard-D11534)|[C++ Variadics](https://www.hackerrank.com/challenges/cpp-variadics/problem?isFullScreen=true)|[C++](https://)
 | ![License](https://img.shields.io/badge/Hard-D11534)|[Bit Array](https://www.hackerrank.com/challenges/bitset-1/problem?isFullScreen=true)|[C++](https://)
-
-
-name: Mixed inputs
-
-on:
-  workflow_dispatch:
-    inputs:
-      name:
-        type: choice
-        description: Who to greet
-        options: 
-        - monalisa
-        - cschleiden
-      message:
-        required: true
-      use-emoji:
-        type: boolean
-        description: Include 🎉🤣 emojis
-      environment:
-        type: environment
-
-jobs:
-  greet:
-    runs-on: ubuntu-latest
-
     steps:
     - name: Send greeting
       run: echo "${{ github.event.inputs.message }} ${{ fromJSON('["", "🥳"]')[github.event.inputs.use-emoji == 'true'] }} ${{ github.event.inputs.name }}"
