@@ -78,50 +78,81 @@
 |-|-|-|
 |Easy|Welcome to Java!|[Java](
 |Easy|Java Stdin and Stdout I|[Java](
-|Easy|Java If-Else|
-|Easy|Java Stdin and Stdout II|
-|Easy|Java Output Formatting|
-|Easy|Java Loops I|
-|Easy|Java Loops II|
-|Easy|Java Datatypes|
-|Easy|Java End-of-file|
-|Easy|Java Static Initializer Block|
-|Easy|Java Int to String|
-|Easy|Java Date and Time|
-|Easy|Java Currency Formatter|
-|Easy|Java Strings Introduction|
-|Easy|Java Substring|
-|Easy|Java Substring Comperisons|
-|Easy|Java String Reverse|
-|Easy|Java Anagrams|
-|Easy|Java String Tokens|
-|Easy|Pattern Syntax Checker|
-|Easy|Valid Username Regular Epression|
-|Easy|Java Primality Test|
-|Easy|Java BigInteger|
-|Easy|Java 1D Array|
-|Easy|Java 2D Array|
-|Easy|Java Subarray|
-|Easy|Java List|
-|Easy|Java Map|
-|Easy|Java Hashset|
-|Easy|Java Generics|
-|Easy|Java Sort|
-|Easy|Java BitSet|
-|Easy|Java Inheritance I|
-|Easy|Java Inheritance II|
-|Easy|Java Abstract Class|
-|Easy|Java Interface|
-|Easy|Java Method Overriding|
-|Easy|Java Method Overrifing 2(Super Keyword)|
-|Easy|Java Instanceof Keyword|
-|Easy|Java Iterator|
-|Easy|Java Exception Handling|
-|Easy|Java Varargs - Simple Addition|
-|Easy|Java Reflections - Attributes|
-|Easy|Java Factory Pattern|
-|Easy|Java Singleton Pattern|
-|Easy|Covariant Return Types|
+|Easy|Java If-Else|[Java](
+|Easy|Java Stdin and Stdout II|[Java](
+|Easy|Java Output Formatting|[Java](
+|Easy|Java Loops I|[Java](
+|Easy|Java Loops II|[Java](
+|Easy|Java Datatypes|[Java](
+|Easy|Java End-of-file|[Java](
+|Easy|Java Static Initializer Block|[Java](
+|Easy|Java Int to String|[Java](
+|Easy|Java Date and Time|[Java](
+|Easy|Java Currency Formatter|[Java](
+|Easy|Java Strings Introduction|[Java](
+|Easy|Java Substring|[Java](
+|Easy|Java Substring Comperisons|[Java](
+|Easy|Java String Reverse|[Java](
+|Easy|Java Anagrams|[Java](
+|Easy|Java String Tokens|[Java](
+|Easy|Pattern Syntax Checker|[Java](
+|Easy|Valid Username Regular Epression|[Java](
+|Easy|Java Primality Test|[Java](
+|Easy|Java BigInteger|[Java](
+|Easy|Java 1D Array|[Java](
+|Easy|Java 2D Array|[Java](
+|Easy|Java Subarray|[Java](
+|Easy|Java List|[Java](
+|Easy|Java Map|[Java](
+|Easy|Java Hashset|[Java](
+|Easy|Java Generics|[Java](
+|Easy|Java Sort|[Java](
+|Easy|Java BitSet|[Java](
+|Easy|Java Inheritance I|[Java](
+|Easy|Java Inheritance II|[Java](
+|Easy|Java Abstract Class|[Java](
+|Easy|Java Interface|[Java](
+|Easy|Java Method Overriding|[Java](
+|Easy|Java Method Overrifing 2(Super Keyword)|[Java](
+|Easy|Java Instanceof Keyword|[Java](
+|Easy|Java Iterator|[Java](
+|Easy|Java Exception Handling|[Java](
+|Easy|Java Varargs - Simple Addition|[Java](
+|Easy|Java Reflections - Attributes|[Java](
+|Easy|Java Factory Pattern|[Java](
+|Easy|Java Singleton Pattern|[Java](
+|Easy|Covariant Return Types|[Java](
+|Medium|Java Regex|[Java](
+|Medium|Java Regex 2 - Duplicate Words|[Java](
+|Medium|Tag Content Extractor|[Java](
+|Medium|Java BigDecimal|[Java](
+|Medium|Java 1D Array (Part 2)|[Java](
+|Medium|Java Stack|[Java](
+|Medium|Java Dequeue|[Java](
+|Medium|Java Priority Queue|[Java](
+|Medium|Can You Access?|[Java](
+|Medium|Prime Checker|[Java](
+|Medium|Java Visitor Pattern|[Java](
+|Medium|Java Annotations|[Java](
+|Medium|Java Lambda Expressions|[Java](
+|Medium|Java MD5|[Java](
+|Medium|Java SHA-256|[Java](
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Python
 |Difficulty|Question|Solution|
 |-|-|-|
