@@ -137,25 +137,42 @@
 |Medium|Java Lambda Expressions|[Java](
 |Medium|Java MD5|[Java](
 |Medium|Java SHA-256|[Java](
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Python
 |Difficulty|Question|Solution|
 |-|-|-|
+|Easy|Say "Hello, World!" With Python|
+|Easy|Python If-Else
+|Easy|Arithmetic Operators|
+|Easy|Python: Division|
+|Easy|Loops|
+|Easy|Print Function|
+|Easy|List Comprehesions|
+|Easy|Find the Runner-Up Score!|
+|Easy|Nested Lists|
+|Easy|Finding the percentage|
+|Easy|Lists|
+|Easy|Tuples|
+|Easy|sWAP cASE|
+|Easy|Sting Split and Join|
+|Easy|What's Your Name?|
+|Easy|Mutations|
+|Easy|Find a string|
+|Easy|String Validators|
+|Easy|Text Alignment|
+|Easy|Text Wrap|
+|Easy|Designer Door Mat|
+|Easy|String Formatting|
+|Easy|Alphabet Rangoli|
+|Easy|Capitalize!|
+|Easy|collections.Counter()|
+|Easy|itertools.permutations()|
+|Easy|Polar Coordinates|
+|Easy|Introduction to Sets|
+|Easy|DefaultDict Tutorial|
+
+
+
+
 # Ruby
 |Difficulty|Question|Solution|
 |-|-|-|
