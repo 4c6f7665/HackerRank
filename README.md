@@ -1,6 +1,6 @@
 |Difficulty|Question|Solution|
 |-|-|-|
-|Easy|[Say "Hello, World!" With C++]|[C++](https://)
+|Easy|Say "Hello, World!" With C++|[C++](https://)
 |Easy|[Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem?isFullScreen=true)|[C++](https://)
 |Easy|[Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem?isFullScreen=true)|[C++](https://)
 |Easy|[Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem?isFullScreen=true)|[C++](https://)
