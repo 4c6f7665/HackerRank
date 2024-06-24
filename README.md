@@ -1,6 +1,6 @@
 |Difficulty|Question|Solution|
 |-|-|-|
-|Easy|Say "Hello, World!" With C++|[C++](https://)
+|Easy|Say "Hello, World!" With C++|[C++](https://github.com/ThreadedDev/HackerRank/blob/main/C%2B%2B/SayHelloWorldWithCpp.cpp)
 |Easy|Input and Output|[C++](https://)
 |Easy|Basic Data Types|[C++](https://)
 |Easy|Conditional Statements|[C++](https://)
