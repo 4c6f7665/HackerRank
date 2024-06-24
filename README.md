@@ -1,19 +1,8 @@
-
-
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.ruby-lang.org/en/" target="" rel=""> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
-
-<a href="https://github.com/ThreadedDev/HackerRank/blob/main/C%2B%2B/main.cpp"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="GitHub Icon" height="40"></a>
-
 ![License](https://img.shields.io/badge/Easy-1BA94C)
 ![License](https://img.shields.io/badge/Medium-DB7100)
 ![License](https://img.shields.io/badge/Hard-D11534)
 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 |Difficulty|Question|Solution|
 |-|-|-|
 | ![License](https://img.shields.io/badge/Easy-1BA94C)|[Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem?isFullScreen=true)|[C++](https://)
@@ -60,12 +49,3 @@
 | ![License](https://img.shields.io/badge/Hard-D11534)|[Magic Spells](https://www.hackerrank.com/challenges/magic-spells/problem?isFullScreen=true)|[C++](https://)
 | ![License](https://img.shields.io/badge/Hard-D11534)|[C++ Variadics](https://www.hackerrank.com/challenges/cpp-variadics/problem?isFullScreen=true)|[C++](https://)
 | ![License](https://img.shields.io/badge/Hard-D11534)|[Bit Array](https://www.hackerrank.com/challenges/bitset-1/problem?isFullScreen=true)|[C++](https://)
-
-
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<details>
-  <summary>Click to expand</summary> 
-    |text|text|text|
-    |-|-|-|
-    |text|text|text|
-</details>
