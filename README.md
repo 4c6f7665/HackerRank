@@ -45,5 +45,18 @@
 |Hard|Magic Spells|[C++](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C++/MagicSpells.cpp)
 |Hard|C++ Variadics|[C++](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C++/CppVariadics.cpp)
 |Hard|Bit Array|[C++](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C++/BitArray.cpp)
-
-|Easy
+# C
+|Difficulty|Question|Solution|
+|-|-|-|
+# Java
+|Difficulty|Question|Solution|
+|-|-|-|
+# Python
+|Difficulty|Question|Solution|
+|-|-|-|
+# Ruby
+|Difficulty|Question|Solution|
+|-|-|-|
+# SQL
+|Difficulty|Question|Solution|
+|-|-|-|
