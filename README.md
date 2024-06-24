@@ -48,6 +48,8 @@
 # C
 |Difficulty|Question|Solution|
 |-|-|-|
+|Easy|"Hello World!" in C|[C++](
+|Easy
 # Java
 |Difficulty|Question|Solution|
 |-|-|-|
