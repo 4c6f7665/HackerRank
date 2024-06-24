@@ -48,11 +48,35 @@
 # C
 |Difficulty|Question|Solution|
 |-|-|-|
-|Easy|"Hello World!" in C|[C++](
-|Easy
+|Easy|"Hello World!" in C|[C](
+|Easy|Playing With Characters|[C](
+|Easy|Sum and Difference of Two Numbers|[C](
+|Easy|Functions in C|[C](
+|Easy|Pointers in C|[C](
+|Easy|Conditional Statements in C|[C](
+|Easy|For Loop in C|[C](
+|Easy|Sum of Digits of a Five Digit Number|[C](
+|Easy|Bitwise Operators|[C](
+|Easy|Calculate the Nth term|[C](
+|Easy|Students Marks Sum|[C](
+|Easy|Boxes through a Tunnel|[C](
+|Medium|Printing Pattern Using Loops|[C](
+|Medium|1D Arrays in C|[C](
+|Medium|Array Reversal|[C](
+|Medium|Printing Tokens|[C](
+|Medium|Digit Frequency|[C](
+|Medium|Dynamic Array in C|[C](
+|Medium|Permutations of Strings|[C](
+|Medium|Variadic functions in C|[C](
+|Medium|Small Triangles, Large Triangle|[C](
+|Hard|Sorting Array of Strings|[C](
+|Hard|Querying the Document|[C](
+|Hard|Post Transition|[C](
+|Hard|Structuring the Document|[C](
 # Java
 |Difficulty|Question|Solution|
 |-|-|-|
+
 # Python
 |Difficulty|Question|Solution|
 |-|-|-|
