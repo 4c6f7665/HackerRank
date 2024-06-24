@@ -48,6 +48,18 @@
 | ![License](https://img.shields.io/badge/Hard-D11534)|[Magic Spells](https://www.hackerrank.com/challenges/magic-spells/problem?isFullScreen=true)|[C++](https://)
 | ![License](https://img.shields.io/badge/Hard-D11534)|[C++ Variadics](https://www.hackerrank.com/challenges/cpp-variadics/problem?isFullScreen=true)|[C++](https://)
 | ![License](https://img.shields.io/badge/Hard-D11534)|[Bit Array](https://www.hackerrank.com/challenges/bitset-1/problem?isFullScreen=true)|[C++](https://)
-    steps:
-    - name: Send greeting
-      run: echo "${{ github.event.inputs.message }} ${{ fromJSON('["", "🥳"]')[github.event.inputs.use-emoji == 'true'] }} ${{ github.event.inputs.name }}"
+
+
+
+# My Project
+
+## Features
+
+<details>
+  <summary>Click to expand</summary>
+  
+  - Feature 1
+  - Feature 2
+  - Feature 3
+  
+</details>
