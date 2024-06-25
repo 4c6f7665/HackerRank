@@ -48,31 +48,31 @@
 # C
 |Difficulty|Question|Solution|
 |-|-|-|
-|Easy|"Hello World!" in C|[C](
-|Easy|Playing With Characters|[C](
-|Easy|Sum and Difference of Two Numbers|[C](
-|Easy|Functions in C|[C](
-|Easy|Pointers in C|[C](
-|Easy|Conditional Statements in C|[C](
-|Easy|For Loop in C|[C](
-|Easy|Sum of Digits of a Five Digit Number|[C](
-|Easy|Bitwise Operators|[C](
-|Easy|Calculate the Nth term|[C](
-|Easy|Students Marks Sum|[C](
-|Easy|Boxes through a Tunnel|[C](
-|Medium|Printing Pattern Using Loops|[C](
-|Medium|1D Arrays in C|[C](
-|Medium|Array Reversal|[C](
-|Medium|Printing Tokens|[C](
-|Medium|Digit Frequency|[C](
-|Medium|Dynamic Array in C|[C](
-|Medium|Permutations of Strings|[C](
-|Medium|Variadic functions in C|[C](
-|Medium|Small Triangles, Large Triangle|[C](
-|Hard|Sorting Array of Strings|[C](
-|Hard|Querying the Document|[C](
-|Hard|Post Transition|[C](
-|Hard|Structuring the Document|[C](
+|Easy|"Hello World!" in C|[C](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C/HelloWorldInC.c)
+|Easy|Playing With Characters|[C](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C/PlayingWithCharacters.c)
+|Easy|Sum and Difference of Two Numbers|[C](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C/SumAndDifferenceOfTwoNumbers.c)
+|Easy|Functions in C|[C](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C/FunctionsInC.c)
+|Easy|Pointers in C|[C](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C/PointersInC.c)
+|Easy|Conditional Statements in C|[C](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C/ConditionalStatementsInC.c)
+|Easy|For Loop in C|[C](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C/ForLoopInC.c)
+|Easy|Sum of Digits of a Five Digit Number|[C](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C/SumOfDigitsOfAFiveDigitNumber.c)
+|Easy|Bitwise Operators|[C](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C/BitwiseOperators.c)
+|Easy|Calculate the Nth term|[C](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C/CalculateTheNthTerm.c)
+|Easy|Students Marks Sum|[C](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C/StudentsMarksSum.c)
+|Easy|Boxes through a Tunnel|[C](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C/BoxesThroughATunnel.c)
+|Medium|Printing Pattern Using Loops|[C](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C/PrintingPatternUsingLoops.c)
+|Medium|1D Arrays in C|[C](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C/1DArraysInC.c)
+|Medium|Array Reversal|[C](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C/ArrayReversal.c)
+|Medium|Printing Tokens|[C](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C/PrintingTokens.c)
+|Medium|Digit Frequency|[C](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C/DigitFrequency.c)
+|Medium|Dynamic Array in C|[C](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C/DynamicArrayInC.c)
+|Medium|Permutations of Strings|[C](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C/PermutationsOfStrings.c)
+|Medium|Variadic functions in C|[C](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C/VariadicFunctionsInC.c)
+|Medium|Small Triangles, Large Triangle|[C](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C/SmallTrianglesLargeTriangles.c)
+|Hard|Sorting Array of Strings|[C](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C/SortingArrayOfStrings.c)
+|Hard|Querying the Document|[C](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C/QueryingTheDocument.c)
+|Hard|Post Transition|[C](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C/PostTransition.c)
+|Hard|Structuring the Document|[C](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C/StructuringTheDocument.c)
 # Java
 |Difficulty|Question|Solution|
 |-|-|-|
