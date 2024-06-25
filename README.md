@@ -76,64 +76,64 @@
 # Java
 |Difficulty|Question|Solution|
 |-|-|-|
-|Easy|Welcome to Java!|[Java](
-|Easy|Java Stdin and Stdout I|[Java](
-|Easy|Java If-Else|[Java](
-|Easy|Java Stdin and Stdout II|[Java](
-|Easy|Java Output Formatting|[Java](
-|Easy|Java Loops I|[Java](
-|Easy|Java Loops II|[Java](
-|Easy|Java Datatypes|[Java](
-|Easy|Java End-of-file|[Java](
-|Easy|Java Static Initializer Block|[Java](
-|Easy|Java Int to String|[Java](
-|Easy|Java Date and Time|[Java](
-|Easy|Java Currency Formatter|[Java](
-|Easy|Java Strings Introduction|[Java](
-|Easy|Java Substring|[Java](
-|Easy|Java Substring Comperisons|[Java](
-|Easy|Java String Reverse|[Java](
-|Easy|Java Anagrams|[Java](
-|Easy|Java String Tokens|[Java](
-|Easy|Pattern Syntax Checker|[Java](
-|Easy|Valid Username Regular Epression|[Java](
-|Easy|Java Primality Test|[Java](
-|Easy|Java BigInteger|[Java](
-|Easy|Java 1D Array|[Java](
-|Easy|Java 2D Array|[Java](
-|Easy|Java Subarray|[Java](
-|Easy|Java List|[Java](
-|Easy|Java Map|[Java](
-|Easy|Java Hashset|[Java](
-|Easy|Java Generics|[Java](
-|Easy|Java Sort|[Java](
-|Easy|Java BitSet|[Java](
-|Easy|Java Inheritance I|[Java](
-|Easy|Java Inheritance II|[Java](
-|Easy|Java Abstract Class|[Java](
-|Easy|Java Interface|[Java](
-|Easy|Java Method Overriding|[Java](
-|Easy|Java Method Overrifing 2(Super Keyword)|[Java](
-|Easy|Java Instanceof Keyword|[Java](
-|Easy|Java Iterator|[Java](
-|Easy|Java Exception Handling|[Java](
-|Easy|Java Varargs - Simple Addition|[Java](
-|Easy|Java Reflections - Attributes|[Java](
-|Easy|Java Factory Pattern|[Java](
-|Easy|Java Singleton Pattern|[Java](
-|Easy|Covariant Return Types|[Java](
-|Medium|Java Regex|[Java](
-|Medium|Java Regex 2 - Duplicate Words|[Java](
-|Medium|Tag Content Extractor|[Java](
-|Medium|Java BigDecimal|[Java](
-|Medium|Java 1D Array (Part 2)|[Java](
-|Medium|Java Stack|[Java](
-|Medium|Java Dequeue|[Java](
-|Medium|Java Priority Queue|[Java](
-|Medium|Can You Access?|[Java](
-|Medium|Prime Checker|[Java](
-|Medium|Java Visitor Pattern|[Java](
-|Medium|Java Annotations|[Java](
-|Medium|Java Lambda Expressions|[Java](
-|Medium|Java MD5|[Java](
-|Medium|Java SHA-256|[Java](
+|Easy|Welcome to Java!|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/WelcomeToJava.java)
+|Easy|Java Stdin and Stdout I|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaStdinAndStdoutI.java)
+|Easy|Java If-Else|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaIfElse.java)
+|Easy|Java Stdin and Stdout II|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaStdinAndStdoutII.java)
+|Easy|Java Output Formatting|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaOutputFormatting.java)
+|Easy|Java Loops I|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaLoopsI.java)
+|Easy|Java Loops II|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaLoopsII.java)
+|Easy|Java Datatypes|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaDatatypes.java)
+|Easy|Java End-of-file|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaEndOfFile.java)
+|Easy|Java Static Initializer Block|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaStaticInitializerBlock.java)
+|Easy|Java Int to String|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaIntToString.java)
+|Easy|Java Date and Time|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaDateAndTime.java)
+|Easy|Java Currency Formatter|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaCurrencyFormatter.java)
+|Easy|Java Strings Introduction|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaStringsIntroduction.java)
+|Easy|Java Substring|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaSubstring.java)
+|Easy|Java Substring Comperisons|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaSubstringComperisons.java)
+|Easy|Java String Reverse|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaStringReverse.java)
+|Easy|Java Anagrams|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaAnagrams.java)
+|Easy|Java String Tokens|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaStringTokens.java)
+|Easy|Pattern Syntax Checker|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/PatternSyntaxChecker.java)
+|Easy|Valid Username Regular Epression|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/ValidUsernameRegular.java)
+|Easy|Java Primality Test|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaPrimalityTest.java)
+|Easy|Java BigInteger|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaBigInteger.java)
+|Easy|Java 1D Array|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/Java1DArray.java)
+|Easy|Java 2D Array|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/Java2DArray.java)
+|Easy|Java Subarray|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaSubarray.java)
+|Easy|Java List|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaList.java)
+|Easy|Java Map|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaMap.java)
+|Easy|Java Hashset|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaHashset.java)
+|Easy|Java Generics|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaGenerics.java)
+|Easy|Java Sort|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaSort.java)
+|Easy|Java BitSet|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaBitSet.java)
+|Easy|Java Inheritance I|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaInheritanceI.java)
+|Easy|Java Inheritance II|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaInheritanceII.java)
+|Easy|Java Abstract Class|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaAbstractClass.java)
+|Easy|Java Interface|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaInterface.java)
+|Easy|Java Method Overriding|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaMethodOverriding.java)
+|Easy|Java Method Overriding 2(Super Keyword)|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaMethodOverriding.java)
+|Easy|Java Instanceof Keyword|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaInstanceofKeyword.java)
+|Easy|Java Iterator|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaIterator.java)
+|Easy|Java Exception Handling|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaExceptionHandling.java)
+|Easy|Java Varargs - Simple Addition|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaVarargs.java)
+|Easy|Java Reflections - Attributes|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaReflectionAttributes.java)
+|Easy|Java Factory Pattern|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaFactoryPattern.java)
+|Easy|Java Singleton Pattern|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaSingletonPattern.java)
+|Easy|Covariant Return Types|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/CovariantReturnTypes.java)
+|Medium|Java Regex|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaRegex.java)
+|Medium|Java Regex 2 - Duplicate Words|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaRegex2DuplicateWords.java)
+|Medium|Tag Content Extractor|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/TagContentExtractor.java)
+|Medium|Java BigDecimal|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaBigDecimal.java)
+|Medium|Java 1D Array (Part 2)|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/Java1DArray(Part2).java)
+|Medium|Java Stack|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaStack.java)
+|Medium|Java Dequeue|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaDequeue.java)
+|Medium|Java Priority Queue|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaPriorityQueue.java)
+|Medium|Can You Access?|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/CanYouAccess.java)
+|Medium|Prime Checker|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/PrimeChecker.java)
+|Medium|Java Visitor Pattern|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaVisitorPattern.java)
+|Medium|Java Annotations|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaAnnotations.java)
+|Medium|Java Lambda Expressions|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaLambdaExpressions.java)
+|Medium|Java MD5|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaMD5.java)
+|Medium|Java SHA-256|[Java](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/Java/JavaSHA256.java)
