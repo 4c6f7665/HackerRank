@@ -1,4 +1,4 @@
-# C++ challenges solved 44/44
+# C++
 |Difficulty|Question|Solution|
 |-|-|-|
 |Easy|Say "Hello, World!" With C++|[C++](https://raw.githubusercontent.com/ThreadedDev/HackerRank/main/C++/SayHelloWorldWithCpp.cpp)
